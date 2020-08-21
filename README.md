@@ -1,3 +1,5 @@
+This project was builded base on react library with boostrap and some css ,its a simple resort managemnet.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
